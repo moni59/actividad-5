@@ -1,0 +1,9 @@
+{
+  "prueba": "t pareada bilateral sobre ROC-AUC de 5 folds (exploratoria)",
+  "modelo_1": "LogisticRegression",
+  "modelo_2": "RandomForest",
+  "t": 1.2328375181373084,
+  "p_value": 0.28513868583578794,
+  "diferencia_media": 0.003405572755417907,
+  "nota": "Con solo cinco folds la inferencia es inestable; interpretar como comparaci\u00f3n exploratoria."
+}
