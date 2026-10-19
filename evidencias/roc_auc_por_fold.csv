@@ -1,0 +1,11 @@
+modelo,fold,roc_auc
+LogisticRegression,1,0.9860681114551083
+LogisticRegression,2,0.9989680082559339
+LogisticRegression,3,0.9969040247678018
+LogisticRegression,4,0.9989680082559339
+LogisticRegression,5,0.9984520123839009
+RandomForest,1,0.9891640866873065
+RandomForest,2,0.998968008255934
+RandomForest,3,0.9891640866873065
+RandomForest,4,0.9871001031991744
+RandomForest,5,0.9979360165118679
